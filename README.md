@@ -22,5 +22,3 @@ I'm currently diving deeper into Django.
 
 - **Website**: [Website](https://we1337.github.io/Web-Application-for-Tartary-Team/)
 - **Gmail**: weuser149@gmail.com
-
-<script src="https://tryhackme.com/badge/2737290"></script>
